@@ -78,12 +78,13 @@ public class Main {
         System.out.println(output);
 
 
-        String name = "Joe";
+        // THIS WAS JUST AN EXAMPLE
+//        String name = "Joe";
 //        name = name + " Smith";
-        name += " Smith";
-        name += 'A';
-
-        System.out.println(name);
+//        name += " Smith";
+//        name += 'A';
+//
+//        System.out.println(name);
 
 
 
